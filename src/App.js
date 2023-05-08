@@ -1,6 +1,12 @@
 import './App.css';
-import logo from './logo.svg';
+import OtherLocations from './components/OtherLocations';
+import SearchBar from './components/SearchBar';
 
 export default function App() {
-  return;
+  return (
+    <div className="container">
+      <SearchBar />
+      <OtherLocations />
+    </div>
+  );
 }

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Poppins:wght@400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(to right bottom, #028465, #3d99845a);
+}
