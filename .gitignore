@@ -15,6 +15,7 @@
 # Ref: https://github.com/upleveled/create-react-app/commit/ab165a178994751e837d2835b2a4dbcc48f6f709#
 /dist
 
+.env
 # misc
 .DS_Store
 .env.local
